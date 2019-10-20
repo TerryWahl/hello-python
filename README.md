@@ -13,8 +13,5 @@ Now you can run the application by using `python src/hello.py`.
 #### Testing the app
 The test folder contains some tests.  
 To run them, execute your favourite python test framework from the root directory,
-of course after setting your desired port.  
+of course after setting your desired port.
 For example `pytest` or `nosetests`.
-
-#### Application is tested by Travis CI
-Please view the build here: `https://travis-ci.org/TerryWahl/hello-python/`.
