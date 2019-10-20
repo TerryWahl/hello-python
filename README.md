@@ -18,3 +18,6 @@ For example `pytest` or `nosetests`.
 
 #### Application is tested by Travis CI
 Please view the build here: `https://travis-ci.org/TerryWahl/hello-python/`.
+
+#### Application is deployed to Pivotal
+Please view de deployed app here: `https://hello-python-tewa-unique-name.cfapps.io/`.
