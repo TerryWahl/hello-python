@@ -4,6 +4,9 @@ python:
   - "2.7"
   - "3.8"
 
+env:
+  - PORT=8080
+
 cache: pip
 
 install:
