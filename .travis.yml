@@ -1,0 +1,10 @@
+language: python
+  python:
+    - "2.7"
+    - "3.4"
+  cache: pip
+  install:
+    - pip install -r src/requirements.txt
+    - pip install -r test/test-requirements.txt
+  script:
+    - pytest
